@@ -1,0 +1,1 @@
+Simple bot for tracking threads on discord and publishing them to an index!
